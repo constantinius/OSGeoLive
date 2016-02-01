@@ -182,6 +182,7 @@ export USER_NAME
 ./install_cesium.sh
 ./install_istsos.sh
 ./install_javaworldwind.sh
+./install_webworldwind.sh
 
 ./load_gisdata.sh
 ./install_docs.sh
