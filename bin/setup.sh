@@ -70,7 +70,7 @@ fi
 #Add keys for repositories
 apt-key adv --keyserver keyserver.ubuntu.com --recv-keys FADA29F7
 # Staging repo
-#apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6EB3B214
+apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6EB3B214
 # UbuntuGIS
 #apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 314DF160
 
